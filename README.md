@@ -7,3 +7,4 @@ Desafio de criação de elemento select customizado simulando uma lista de compr
 
 ## :books: Funcionalidades
 * <b>Lucide Icons</b>: Biblioteca de ícones utilizada no projeto
+* Dicas de como usar da melhor forma o recurso `:has()` no Css, além dos eventos de input pelo Javascript afim de trazer mais semântica ao projeto.
